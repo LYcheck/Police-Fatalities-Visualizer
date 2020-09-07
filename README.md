@@ -1,1 +1,2 @@
-# Police-Fatalities-Visualizer
+# Police-Shootings-Visualizer
+ 

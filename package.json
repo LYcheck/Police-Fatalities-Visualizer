@@ -1,0 +1,24 @@
+{
+  "name": "Police-Fatalities-Visualizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --output-path ./public",
+    "start": "webpack-dev-server --content-base ./public --output-path ./public --hot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "@deck.gl/aggregation-layers": "^8.2.7",
+    "@deck.gl/core": "^8.2.7",
+    "@deck.gl/google-maps": "^8.2.7",
+    "@deck.gl/layers": "^8.2.7"
+  }
+}
