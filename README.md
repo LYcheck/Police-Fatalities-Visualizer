@@ -1,4 +1,4 @@
-# Police-Fatalities-Visualizer
+# Lethal Force
 This project was created in an attempt to illustrate each fatal event in the USA of which police were involved - updated as of August 2020.
 
 I wanted to give these events attention - match a story to the time and place, and then give the user an option to educate themselves on the transpired tragedy.
